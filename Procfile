@@ -1,1 +1,1 @@
-web: gunicorn app: logger
+worker: python echobot.py
